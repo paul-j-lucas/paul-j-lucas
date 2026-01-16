@@ -16,9 +16,14 @@ however,
 that I am **_not_** available for advice,
 collaboration,
 consultation,
+candidates,
+events,
+individual training,
 jobs,
+products,
 recommendations,
-nor individual training.
+nor
+services.
 
 ## History
 

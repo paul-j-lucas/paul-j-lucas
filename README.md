@@ -9,7 +9,7 @@ specializing in back-end software development.
 
 ## Contact
 
-E-mail: [paul@lucasmail.org](mailto:paul@lucasmail.org)
+E-mail: paul AT lucasmail.org
 
 Note,
 however,
